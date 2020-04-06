@@ -35,7 +35,7 @@ public class Month {
             case 12: System.out.println ("December");
                 break;
             default:
-                System.out.println ("I don't such month");
+                System.out.println ("I don't know such month");
         }
     }
 }
